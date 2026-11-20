@@ -31,7 +31,7 @@ Les notebooks utilisent des chemins relatifs : ils s'exécutent depuis `notebook
 |---|---|---|---|
 | A1 | 1.1 Nettoyage de la feuille Logements | Membre 1 | Fait — `notebooks/01_nettoyage.ipynb` |
 | A2 | 5.2 Préparation de la série mensuelle | Membre 2 | À faire |
-| A3 | 1.2 Statistiques descriptives | Membre 1 | À faire |
+| A3 | 1.2 Statistiques descriptives | Membre 1 | Fait — `notebooks/02_statistiques_descriptives.ipynb` |
 | A4 | 1.3 Corrélations, rénové / non rénové | Membre 2 | À faire |
 
 ## Conventions Git
