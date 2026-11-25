@@ -1,0 +1,4 @@
+modèle,variable expliquée,R² (échelle propre),R² sur l'échelle kWh,RMSE (kWh),asymétrie résidus,kurtosis résidus,p Jarque-Bera résidus,p Breusch-Pagan
+Niveau,Conso (kWh),0.6962,0.6962,4813.313,1.4165,8.9638,0.0,0.0
+Semi-log,log Conso,0.7542,0.6651,5254.0047,-0.0012,3.3715,0.0032,0.0
+Log-log,log Conso,0.7702,0.7199,4626.5514,0.0811,3.2608,0.0197,0.0

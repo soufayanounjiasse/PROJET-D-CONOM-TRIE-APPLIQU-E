@@ -32,7 +32,8 @@ Les notebooks utilisent des chemins relatifs : ils s'exécutent depuis `notebook
 | A1 | 1.1 Nettoyage de la feuille Logements | Membre 1 | Fait — `notebooks/01_nettoyage.ipynb` |
 | A2 | 5.2 Préparation de la série mensuelle | Membre 2 | À faire |
 | A3 | 1.2 Statistiques descriptives | Membre 1 | Fait — `notebooks/02_statistiques_descriptives.ipynb` |
-| A4 | 1.3 Corrélations, rénové / non rénové | Membre 2 | À faire |
+| A4 | 1.3 Corrélations, rénové / non rénové | Membre 2 | Fait — `notebooks/03_correlations_renovation.ipynb` (préparé par Membre 1, à relire par Membre 2) |
+| A5 | 2.1 à 2.4 Modèle linéaire (simple, multiple, log, période de construction) | Membre 1 | Fait — `notebooks/04_modele_lineaire.ipynb` |
 
 ## Conventions Git
 
